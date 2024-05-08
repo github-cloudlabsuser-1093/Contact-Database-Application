@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "appName": {
-            "value": "your-web-app-name"
+            "value": "chyanga-app"
         },
         "appLocation": {
-            "value": "your-web-app-location"
+            "value": "canada-central"
         },
         "appSettings": {
             "value": {
